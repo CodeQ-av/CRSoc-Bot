@@ -14,7 +14,7 @@ import json
 # === CONFIGURATION ===
 class Config:
     # Load from environment variables (recommended for security)
-    TELEGRAM_TOKEN = "7596557417:AAFqv_ov4DjfaEVXY1Cx4TB0L57WhW91-O4"
+    TELEGRAM_TOKEN = "7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4"
     GEMINI_API_KEY = "AIzaSyCqKj627PA2Rqkg86Ei0pl2CZ_BRKnXcww"
     ADMIN_USER_IDS = [987654321]
     
