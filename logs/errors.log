@@ -53,3 +53,12 @@
 2025-06-28 16:47:41,783 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getUpdates "HTTP/1.1 200 OK"
 2025-06-28 16:47:52,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getUpdates "HTTP/1.1 200 OK"
 2025-06-28 16:48:02,592 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getUpdates "HTTP/1.1 200 OK"
+2025-06-28 16:48:12,983 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getUpdates "HTTP/1.1 200 OK"
+2025-06-28 16:48:23,232 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getUpdates "HTTP/1.1 200 OK"
+2025-06-28 16:48:29,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getUpdates "HTTP/1.1 200 OK"
+2025-06-28 16:48:30,820 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getMe "HTTP/1.1 200 OK"
+2025-06-28 16:48:40,109 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getUpdates "HTTP/1.1 200 OK"
+2025-06-28 16:48:45,676 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7714010717:AAF_Yuz0uU6WLIyQRlpp-afiethcRoaZAk4/getUpdates "HTTP/1.1 200 OK"
+2025-06-28 16:48:45,680 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-28 16:48:45,683 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-28 16:48:45,685 - __main__ - INFO - Bot shutting down

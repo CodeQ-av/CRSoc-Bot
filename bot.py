@@ -406,6 +406,7 @@ if __name__ == "__main__":
         bot = setup_bot()
         
         logger.logger.info("✅ Bot is now running!")
-        bot.run_polling(drop_pending_updates=True)
+        port = int(os.environ.get("PORT", 5000))
+        bot.run(host="0.0.0.0", port=port)
     except Exception as e:
         logger.logger.critical("❌ Bot failed to start", exc_info=True)
